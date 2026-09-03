@@ -1,0 +1,15 @@
+title: Color Wave
+description: Privacy Policy for the Color Wave mobile app
+lang: en
+
+# GitHub Pages builds with the github-pages gem; keep plugins minimal.
+plugins: []
+
+# No built-in theme: layout is provided by _layouts/default.html.
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
