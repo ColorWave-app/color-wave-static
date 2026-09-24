@@ -13,9 +13,11 @@ and its Privacy Policy. The site has **exactly two pages**.
   file is the source of truth for the legal text and the page content.
 - `_layouts/default.html` — the only layout. Wraps page content in a single
   centered `.container` div. Do not add nav bars, footers, or extra chrome.
-- `assets/css/style.css` — minimal styling: bold headings, plain body text,
-  underlined links, a `.download-button` style, ~700px max-width container.
-  Keep it minimal; do not introduce a CSS framework or theme.
+- `assets/css/style.css` — minimal styling using CSS variables for the app's
+  brand colors (pink/yellow/blue/maroon/teal), Plus Jakarta Sans headings, a
+  `.hero` + `.store-buttons` layout, and a `.site-footer` style, ~700px
+  max-width container. Keep it minimal; do not introduce a CSS framework or
+  theme.
 - `_config.yml` — Jekyll config (title, description, kramdown). No plugins
   beyond what `github-pages` gem provides.
 - `Gemfile` — uses the `github-pages` gem so local builds match GitHub Pages'
