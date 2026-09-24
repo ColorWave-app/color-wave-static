@@ -47,3 +47,18 @@ a {
 a:hover {
   text-decoration: none;
 }
+
+.download-button {
+  display: inline-block;
+  margin-top: 1.5rem;
+  padding: 0.6rem 1.25rem;
+  background: #1a1a1a;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 700;
+}
+
+.download-button:hover {
+  background: #333333;
+}

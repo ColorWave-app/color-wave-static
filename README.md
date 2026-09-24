@@ -1,11 +1,12 @@
 # color-wave-static
 
-Minimal [Jekyll](https://jekyllrb.com/) static site with a single page: the
-Privacy Policy for the **Color Wave** mobile app.
+Minimal [Jekyll](https://jekyllrb.com/) static site for the **Color Wave**
+mobile app: a home page and its Privacy Policy.
 
 ## Structure
 
-- `PRIVACY_POLICY.md` — the only page, served as the site homepage (`/`).
+- `index.md` — the home page, served at `/`.
+- `privacy.md` — the Privacy Policy page.
 - `_layouts/default.html` — minimal layout (centered container, no nav/footer).
 - `assets/css/style.css` — minimal styling (bold titles, plain body text).
 - `_config.yml`, `Gemfile` — Jekyll configuration, built with the

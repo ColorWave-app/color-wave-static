@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Privacy Policy
-permalink: /
 ---
 
 # Privacy Policy for Color Wave
