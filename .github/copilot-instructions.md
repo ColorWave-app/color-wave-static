@@ -46,6 +46,7 @@ Site is served at `http://localhost:4000`.
 
 ## Deployment
 
-Hosted via **GitHub Pages**, built natively from the repo (Settings → Pages →
-Deploy from branch). No custom GitHub Actions workflow is used unless the
+Hosted via **Netlify**, built from the repo. Custom domain `color-wave.fr`
+(purchased on Hostinger) is pointed at Netlify via DNS. No custom GitHub
+Actions workflow is used unless the
 user asks for one.

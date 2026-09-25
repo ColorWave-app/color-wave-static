@@ -153,4 +153,4 @@ the top will also be updated.
 
 **Maxime Joassy** <br>
 France <br>
-Email: [pifaacedev@color-wave.fr](mailto:pifaacedev@gmail.com)
+Email: [support@color-wave.fr](mailto:support@color-wave.fr)
