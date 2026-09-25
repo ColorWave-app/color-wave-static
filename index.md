@@ -65,7 +65,7 @@ description: Color Wave, a relaxing puzzle game to train your brain by matching 
     <a href="{% link privacy.md %}">Privacy Policy</a>
   </nav>
   <p class="footer-meta">
-    <a href="mailto:pifaace@color-wave.fr">pifaace@color-wave.fr</a>
+    <a href="mailto:pifaace@color-wave.fr">support@color-wave.fr</a>
     <span aria-hidden="true">&middot;</span>
     <span>&copy; 2026 Color Wave Inc</span>
   </p>
