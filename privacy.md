@@ -152,5 +152,5 @@ the top will also be updated.
 ## 11. Contact
 
 **Maxime Joassy**
-France  
+France.
 Email: [pifaacedev@color-wave.fr](mailto:pifaacedev@gmail.com)
